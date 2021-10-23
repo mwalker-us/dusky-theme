@@ -2,8 +2,8 @@
     "name": "vscode-theme-dusky",
     "displayName": "Dusky Theme",
     "description": "A theme extension for VS Code that uses a monotone color scheme.",
-    "version": "0.1.1",
-    "publisher": "walkermchael",
+    "version": "0.0.1",
+    "publisher": "mwalker-us",
     "scripts": {
         "vsce" : "vsce",
         "publish": "vsce publish",
