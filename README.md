@@ -9,6 +9,8 @@ This theme uses low intensity colors to help those with sensitive eyes. Right no
 for most JavaScript style languages, but additional support will be added for common languages
 like `C++`, `Java`, etc.
 
+![Screenshot](./assets/screenshot.png "Dusky Theme Screenshot")
+
 ## Installation
 
 1. Open the Extensions sidebar via `View -> Extensions` and search for `Dusky`.
