@@ -1,6 +1,7 @@
 {
   "type": "dark",
   "colors": {
+    // Activity settings.
     "activityBar.background": "#FFFFFF1A",
     "activityBar.activeBorder": "#FFFFFF",
     "activityBar.dropBorder": "#FFFFFF",
@@ -77,6 +78,7 @@
     "debugTokenExpression.string": "#CE9178",
     "debugTokenExpression.value": "#CCCCCC99",
 
+    // Editor settings.
     "editor.background": "#242424",
     "editor.foreground": "#CCCCCC",
     "editor.selectionBackground": "#204182CC",
@@ -89,8 +91,10 @@
     "editorSuggestWidget.highlightForeground": "#CC6E2F",
     "editorSuggestWidget.selectedBackground": "#204182CC",
 
+    // List settings.
     "list.dropBackground": "#383B3D",
 
+    // Titlebar settings.
     "titleBar.activeBackground": "#FFFFFF1A",
     "titleBar.inactiveBackground": "#ffffff10",
     "titleBar.activeForeground": "#CCCCCC",
