@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+  margin: auto;
+  height: 100%;
+  width: 100vh;
+}
+
+div, p {
+  color: red;
+}

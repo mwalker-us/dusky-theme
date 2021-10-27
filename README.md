@@ -5,9 +5,9 @@ since this extension is still a work in progres.
 
 ## Description
 
-This theme uses low intensity colors to help those with sensitive eyes. Right now it has support
-for most JavaScript style languages, but additional support will be added for common languages
-like `C++`, `Java`, etc.
+This theme uses low intensity colors to help those whose eyes are sensitive to bright screens.
+Right now, this theme has support for most JavaScript style languages, but additional support
+will be added for common languages like `C++`, `Java`, etc.
 
 ![Screenshot](./assets/screenshot.png "Dusky Theme Screenshot")
 
