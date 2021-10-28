@@ -1,4 +1,4 @@
-package debug.JavaExample;
+package debug.javaexample;
 
 public enum EDebug {
   TEST_ENUM_ONE,
