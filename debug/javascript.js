@@ -39,3 +39,8 @@ function verifyThemeVersionIsNumeric() {
   let theme = new DuskyTheme('v0.1.0');
   return theme.toString().match(/\d{1,2}.\d{1,2}.\d{1,2}$/);
 }
+
+async function testAsynchronous() {
+  // Test comment.
+  return new Observable();
+}

@@ -1,4 +1,4 @@
-package debug.javaexample;
+package debug.java;
 
 import java.util.List;
 import java.util.ArrayList;
