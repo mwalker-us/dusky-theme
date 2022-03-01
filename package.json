@@ -3,7 +3,7 @@
     "displayName": "Dusky Theme",
     "description": "A theme extension for VS Code that uses a monotone color scheme.",
     "icon": "assets/icon.png",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "mwalker-us",
     "repository": {
         "type": "git",
