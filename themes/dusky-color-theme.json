@@ -152,7 +152,25 @@
       }
     },
     {
-      "scope": "constant.language",
+      "name": "Keywords & Constants",
+      "scope": [
+        "constant.language",
+        "meta.preprocessor",
+        "meta.preprocessor.string",
+        "meta.diff.header",
+        "storage.type",
+        "storage.modifier",
+        "keyword",
+        "keyword.control",
+        "keyword.operator.new",
+        "keyword.operator.expression",
+        "keyword.operator.cast",
+        "keyword.operator.sizeof",
+        "keyword.operator.logical.python",
+        "punctuation.section.embedded.begin.metatag.php",
+        "punctuation.section.embedded.end.metatag.php",
+        "variable.language"
+      ],
       "settings": {
         "foreground": "#CC7832"
       }
@@ -280,12 +298,6 @@
       }
     },
     {
-      "scope": "meta.preprocessor",
-      "settings": {
-        "foreground": "#CC7832"
-      }
-    },
-    {
       "scope": "meta.preprocessor.string",
       "settings": {
         "foreground": "#CE9178"
@@ -304,27 +316,9 @@
       }
     },
     {
-      "scope": "meta.diff.header",
-      "settings": {
-        "foreground": "#CC7832"
-      }
-    },
-    {
       "scope": "storage",
       "settings": {
         "foreground": "#F44747"
-      }
-    },
-    {
-      "scope": "storage.type",
-      "settings": {
-        "foreground": "#CC7832"
-      }
-    },
-    {
-      "scope": "storage.modifier",
-      "settings": {
-        "foreground": "#CC7832"
       }
     },
     {
@@ -409,48 +403,15 @@
       }
     },
     {
-      "scope": "keyword",
-      "settings": {
-        "foreground": "#CC7832"
-      }
-    },
-    {
-      "scope": "keyword.control",
-      "settings": {
-        "foreground": "#CC7832"
-      }
-    },
-    {
       "scope": "keyword.operator",
       "settings": {
         "foreground": "#A9B7C6"
       }
     },
     {
-      "scope": [
-        "keyword.operator.new",
-        "keyword.operator.expression",
-        "keyword.operator.cast",
-        "keyword.operator.sizeof",
-        "keyword.operator.logical.python"
-      ],
-      "settings": {
-        "foreground": "#CC7832"
-      }
-    },
-    {
       "scope": "keyword.other.unit",
       "settings": {
         "foreground": "#B5CEA8"
-      }
-    },
-    {
-      "scope": [
-        "punctuation.section.embedded.begin.metatag.php",
-        "punctuation.section.embedded.end.metatag.php"
-      ],
-      "settings": {
-        "foreground": "#CC7832"
       }
     },
     {
@@ -473,13 +434,6 @@
       ],
       "settings": {
         "foreground": "#D4D4D4"
-      }
-    },
-    {
-      "name": "this.self",
-      "scope": "variable.language",
-      "settings": {
-        "foreground": "#CC7832"
       }
     },
     {
@@ -556,7 +510,12 @@
         "storage.type.generic.groovy",
         "storage.type.object.array.groovy",
         "storage.type.primitive.array.groovy",
-        "storage.type.primitive.groovy"
+        "storage.type.primitive.groovy",
+        "meta.type.cast.expr",
+        "meta.type.new.expr",
+        "support.constant.math",
+        "support.constant.dom",
+        "support.constant.json"
       ],
       "settings": {
         "foreground": "#4EC9B0"
@@ -581,26 +540,6 @@
       ],
       "settings": {
         "foreground": "#A9B7C6"
-      }
-    },
-    {
-      "name": "Types declaration and references, TS grammar specific",
-      "scope": [
-        "meta.type.cast.expr",
-        "meta.type.new.expr",
-        "support.constant.math",
-        "support.constant.dom",
-        "support.constant.json"
-      ],
-      "settings": {
-        "foreground": "#4EC9B0"
-      }
-    },
-    {
-      "name": "Control flow keywords",
-      "scope": "keyword.control",
-      "settings": {
-        "foreground": "#CC7832"
       }
     },
     {
