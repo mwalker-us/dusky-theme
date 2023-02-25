@@ -7,7 +7,6 @@
   "settings": {
     "editor.wordWrap": "wordWrapColumn",
     "editor.wordWrapColumn": 80,
-    "json.format.enable": true,
-    "prettier.arrowParens": "avoid",
+    "json.format.enable": true
   }
 }

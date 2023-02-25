@@ -7,7 +7,7 @@
     "publisher": "mwalker-us",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mwalker-us/vscode-theme-dusky"
+        "url": "https://github.com/mwalker-us/dusky-theme"
     },
     "scripts": {
         "list": "vsce ls",
@@ -29,7 +29,7 @@
             {
                 "label": "Dusky",
                 "uiTheme": "vs-dark",
-                "path": "./themes/dusky-color-theme.json"
+                "path": "./vscode/dusky-color-theme.json"
             }
         ]
     },
