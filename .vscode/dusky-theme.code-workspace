@@ -6,7 +6,6 @@
   ],
   "settings": {
     "editor.wordWrap": "wordWrapColumn",
-    "editor.wordWrapColumn": 80,
-    "json.format.enable": true
+    "editor.wordWrapColumn": 80
   }
 }
