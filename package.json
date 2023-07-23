@@ -29,7 +29,7 @@
             {
                 "label": "Dusky",
                 "uiTheme": "vs-dark",
-                "path": "./vscode/dusky-color-theme-dark.json"
+                "path": "./vscode/dusky-color-theme.json"
             }
         ]
     },
