@@ -15,13 +15,13 @@
     // Activity Bar
     "activityBar.background": "#151515",
     "activityBar.dropBorder": "#FFFFFF",
-    "activityBar.foreground": "#7D8ECC",
+    "activityBar.foreground": "#5B6BAF",
     "activityBar.inactiveForeground": "#FFFFFF66",
-    "activityBar.border": "#222222",
-    "activityBarBadge.background": "#7D8ECC",
+    "activityBar.border": "#151515",
+    "activityBarBadge.background": "#5B6BAF",
     "activityBarBadge.foreground": "#FFFFFF",
-    "activityBar.activeBorder": "#7D8ECC",
-    "activityBar.activeBackground": "#222222",
+    "activityBar.activeBorder": "#5B6BAF",
+    "activityBar.activeBackground": "#151515",
     "activityBar.activeFocusBorder": "#ff0000",
     // Badge
     "badge.background": "#FFFFFF1A",
@@ -124,7 +124,7 @@
     "sideBarSectionHeader.foreground": "#7D8ECC",
     "sideBySideEditor.horizontalBorder": "#151515",
     "sideBySideEditor.verticalBorder": "#151515",
-    "sideBarTitle.foreground": "#5B6BAF",
+    "sideBarTitle.foreground": "#7D8ECC",
     // Status Bar
     "statusBar.background": "#181818",
     "statusBar.foreground": "#CCCCCC",
