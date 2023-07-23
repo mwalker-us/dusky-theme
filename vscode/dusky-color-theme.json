@@ -1,34 +1,35 @@
 {
   "type": "dark",
   "colors": {
-    // Activity settings.
-    "activityBar.background": "#FFFFFF1A",
+    // Activity settings
+    "activityBar.background": "#22222222",
     "activityBar.activeBorder": "#FFFFFF",
     "activityBar.dropBorder": "#FFFFFF",
     "activityBar.foreground": "#FFFFFF",
     "activityBar.inactiveForeground": "#FFFFFF66",
     "activityBarBadge.background": "#007ACC",
     "activityBarBadge.foreground": "#FFFFFF",
+    // Badge Settings
     "badge.background": "#FFFFFF1A",
     "badge.foreground": "#FFFFFF",
-    // Banner settings.
+    // Banner settings
     "banner.background": "#094771",
     "banner.foreground": "#FFFFFF",
     "banner.iconForeground": "#3794FF",
-    // Breadcrumb settings.
+    // Breadcrumb settings
     "breadcrumb.activeSelectionForeground": "#E0E0E0",
     "breadcrumb.background": "#242424",
     "breadcrumb.focusForeground": "#E0E0E0",
     "breadcrumb.foreground": "#CCCCCCCC",
     "breadcrumbPicker.background": "#252526",
-    // Button Settings.
+    // Button Settings
     "button.background": "#0E639C",
     "button.foreground": "#FFFFFF",
     "button.hoverBackground": "#1177BB",
     "button.secondaryBackground": "#3A3D41",
     "button.secondaryForeground": "#FFFFFF",
     "button.secondaryHoverBackground": "#45494E",
-    // Charts settings.
+    // Charts settings
     "charts.blue": "#3794FF",
     "charts.foreground": "#CCCCCC",
     "charts.green": "#89D185",
@@ -37,11 +38,11 @@
     "charts.purple": "#B180d7",
     "charts.red": "#F14C4C",
     "charts.yellow": "#CCA700",
-    // Checkbox settings.
+    // Checkbox settings
     "checkbox.background": "#3C3C3C",
     "checkbox.border": "#0C7D9D",
     "checkbox.foreground": "#F0F0F0",
-    // Debug settings.
+    // Debug settings
     "debugConsole.errorForeground": "#F48771",
     "debugConsole.infoForeground": "#3794FF",
     "debugConsole.sourceForeground": "#CCCCCC",
@@ -70,7 +71,7 @@
     "debugTokenExpression.number": "#B5CEA8",
     "debugTokenExpression.string": "#CE9178",
     "debugTokenExpression.value": "#CCCCCC99",
-    // Editor settings.
+    // Editor settings
     "editor.background": "#242424",
     "editor.foreground": "#CCCCCC",
     "editor.selectionBackground": "#204182CC",
@@ -82,28 +83,34 @@
     "editorSuggestWidget.background": "#303030",
     "editorSuggestWidget.highlightForeground": "#CC6E2F",
     "editorSuggestWidget.selectedBackground": "#204182CC",
-    // Extension settings.
+    // Extension settings
     "extensionIcon.starForeground": "#FFC66D",
-    // List settings.
+    // List settings
     "list.dropBackground": "#383B3D",
-    // Notification settings.
+    // Notification settings
     "notificationsErrorIcon.foreground": "#ff0000",
     "notificationsInfoIcon.foreground": "#ff0000",
     "notificationsWarningIcon.foreground": "#ff0000",
-    // Title Bar settings.
+    // Menu Bar settings
+    "menu.border": "#ff0000",
+    // Title Bar settings
     "titleBar.activeBackground": "#FFFFFF1A",
     "titleBar.inactiveBackground": "#ffffff10",
     "titleBar.activeForeground": "#CCCCCC",
-    // Side Bar settings.
+    "titleBar.border": "#ff0000",
+    // Side Bar settings
     "sideBar.border": "#FFFFFF1A",
     "sideBar.background": "#242424",
-    // Status Bar settings.
+    "sideBar.dropBackground": "#ff0000",
+    // Status Bar settings
     "statusBar.foreground": "#CCCCCC",
     "statusBar.background": "#FFFFFF1A",
-    // Tab settings.
+    // Tab settings
     "tab.activeBackground": "#FFFFFF1A",
     "tab.inactiveBackground": "#FFFFFF0B",
-    "tab.activeBorder": "#0C7D9D"
+    "tab.activeBorder": "#0C7D9D",
+    // Window settings
+    "window.activeBorder": "#ff0000"
   },
   "tokenColors": [
     {

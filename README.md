@@ -18,5 +18,6 @@ will be added for common languages like `C++`, `Java`, etc.
 3. Verify `Settings -> Color Theme [Command K Command T] -> Dusky` is set.
 
 ### Feedback
+
 If you have any suggestions, please [open an issue](https://github.com/mwalker-us/vscode-theme-dusky/issues)
 or a [pull request](https://github.com/mwalker-us/vscode-theme-dusky/pulls).
