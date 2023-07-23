@@ -13,7 +13,7 @@
     "icon.foreground": "#929292",
     "sash.hoverBorder": "#ff0000",
     // Activity Bar
-    "activityBar.background": "#222222",
+    "activityBar.background": "#151515",
     "activityBar.dropBorder": "#FFFFFF",
     "activityBar.foreground": "#7D8ECC",
     "activityBar.inactiveForeground": "#FFFFFF66",
@@ -86,7 +86,7 @@
     "debugTokenExpression.string": "#CE9178",
     "debugTokenExpression.value": "#CCCCCC99",
     // Editor settings
-    "editor.background": "#222222",
+    "editor.background": "#202020",
     "editor.foreground": "#CCCCCC",
     "editor.selectionBackground": "#204182CC",
     "editor.lineHighlightBackground": "#FFFFFF0B",
@@ -110,19 +110,25 @@
     // Profiles
     "profileBadge.background": "#ff0000",
     "profileBadge.foreground": "#ff0000",
-    // Title Bar settings
-    "titleBar.activeBackground": "#FFFFFF1A",
-    "titleBar.inactiveBackground": "#ffffff10",
+    // Title Bar
+    "titleBar.activeBackground": "#151515",
     "titleBar.activeForeground": "#CCCCCC",
-    "titleBar.border": "#ff0000",
+    "titleBar.inactiveBackground": "#151515",
+    "titleBar.inactiveForeground": "#ff0000",
+    "titleBar.border": "#151515",
     // Side Bar settings
-    "sideBar.border": "#FFFFFF1A",
-    "sideBar.background": "#242424",
-    "sideBar.dropBackground": "#ff0000",
+    "sideBar.border": "#151515",
+    "sideBar.background": "#202020",
+    "sideBar.foreground": "#EFEFEF",
+    "sideBarSectionHeader.background": "#151515",
+    "sideBarSectionHeader.foreground": "#7D8ECC",
+    "sideBySideEditor.horizontalBorder": "#151515",
+    "sideBySideEditor.verticalBorder": "#151515",
+    "sideBarTitle.foreground": "#5B6BAF",
     // Status Bar
-    "statusBar.background": "#222222",
+    "statusBar.background": "#181818",
     "statusBar.foreground": "#CCCCCC",
-    "statusBar.border": "#222222",
+    "statusBar.border": "#151515",
     "statusBar.debuggingBackground": "#7D8ECC",
     "statusBar.debuggingForeground": "#ff0000",
     "statusBar.debuggingBorder": "#ff0000",
@@ -134,7 +140,7 @@
     "statusBarItem.prominentForeground": "#ff0000",
     "statusBarItem.prominentBackground": "#ff0000",
     "statusBarItem.prominentHoverBackground": "#ff0000",
-    "statusBarItem.remoteBackground": "#222222",
+    "statusBarItem.remoteBackground": "#151515",
     "statusBarItem.errorBackground": "#ff0000",
     "statusBarItem.errorForeground": "#ff0000",
     "statusBarItem.warningBackground": "#ff0000",
@@ -149,8 +155,8 @@
     "tab.inactiveBackground": "#FFFFFF0B",
     "tab.activeBorder": "#0C7D9D",
     // Window settings
-    "window.activeBorder": "#ff0000",
-    "window.inactiveBorder": "#ff0000"
+    "window.activeBorder": "#151515",
+    "window.inactiveBorder": "#202020"
   },
   "tokenColors": [
     {
