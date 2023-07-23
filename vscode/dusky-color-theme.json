@@ -5,8 +5,8 @@
     "focusBorder": "#222222",
     "foreground": "#EBEBEB",
     "disabledForeground": "#929292",
-    "widget.border": "#222222",
-    "widget.shadow": "#222222",
+    "widget.border": "#151515",
+    "widget.shadow": "#151515",
     "selection.background": "#212121",
     "descriptionForeground": "#EFEFEF",
     "errorForeground": "#941100",
@@ -27,7 +27,7 @@
     "badge.background": "#FFFFFF1A",
     "badge.foreground": "#FFFFFF",
     // Banner settings
-    "banner.background": "#094771",
+    "banner.background": "#5B6BAF",
     "banner.foreground": "#FFFFFF",
     "banner.iconForeground": "#3794FF",
     // Breadcrumb settings
@@ -58,6 +58,16 @@
     "checkbox.foreground": "#7D8ECC",
     "checkbox.selectBackground": "#202020",
     "checkbox.selectBorder": "#5B6BAF",
+    // Command
+    "commandCenter.activeBackground": "#ff0000",
+    "commandCenter.activeBorder": "#ff0000",
+    "commandCenter.activeForeground": "#ff0000",
+    "commandCenter.background": "#ff0000",
+    "commandCenter.border": "#ff0000",
+    "commandCenter.foreground": "#ff0000",
+    "commandCenter.inactiveBorder": "#ff0000",
+    "commandCenter.inactiveForeground": "#ff0000",
+    "commentsView.resolvedIcon": "#ff0000",
     // Debug settings
     "debugConsole.errorForeground": "#F48771",
     "debugConsole.infoForeground": "#3794FF",
@@ -121,12 +131,28 @@
     "notificationsWarningIcon.foreground": "#ff0000",
     // Menu Bar settings
     "menu.border": "#202020",
+    "menu.background": "#ff0000",
+    "menu.foreground": "#ff0000",
+    "menu.selectionBackground": "#ff0000",
+    "menu.selectionBorder": "#ff0000",
+    "menu.selectionForeground": "#ff0000",
+    "menu.separatorBackground": "#ff0000",
+    "menubar.selectionBackground": "#ff0000",
+    "menubar.selectionBorder": "#ff0000",
+    "menubar.selectionForeground": "#ff0000",
+    // Quick Input
+    "quickInput.background": "#151515",
+    "quickInputList.focusBackground": "#202020",
+    "quickInputTitle.background": "#FFFFFF",
     // Title Bar
     "titleBar.activeBackground": "#151515",
     "titleBar.activeForeground": "#FFFFFF",
     "titleBar.inactiveBackground": "#151515",
     "titleBar.inactiveForeground": "#797979",
     "titleBar.border": "#151515",
+    // Settings
+    "settings.headerForeground": "#7D8ECC",
+    "settings.modifiedItemIndicator": "#5B6BAF",
     // Side Bar settings
     "sideBar.border": "#151515",
     "sideBar.background": "#151515",
@@ -170,9 +196,13 @@
     // Text
     "textLink.foreground": "#7D8ECC",
     "textCodeBlock.background": "#ff0000",
+    // Toolbar
+    "toolbar.activeBackground": "#202020",
+    "toolbar.hoverBackground": "#202020",
+    "toolbar.hoverOutline": "#181818",
     // Window settings
     "window.activeBorder": "#151515",
-    "window.inactiveBorder": "#202020"
+    "window.inactiveBorder": "#151515"
   },
   "tokenColors": [
     {
