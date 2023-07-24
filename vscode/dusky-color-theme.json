@@ -206,12 +206,12 @@
     "tab.hoverBackground": "#181818",
     // Text
     "textLink.foreground": "#7D8ECC",
-    "textCodeBlock.background": "#ff0000",
-    "textBlockQuote.background": "#ff0000",
-    "textBlockQuote.border": "#ff0000",
-    "textLink.activeForeground": "#ff0000",
-    "textPreformat.foreground": "#ff0000",
-    "textSeparator.foreground": "#ff0000",
+    "textCodeBlock.background": "#151515",
+    "textBlockQuote.background": "#151515",
+    "textBlockQuote.border": "#181818",
+    "textLink.activeForeground": "#929292",
+    "textPreformat.foreground": "#181818",
+    "textSeparator.foreground": "#181818",
     // Title Bar
     "titleBar.activeBackground": "#151515",
     "titleBar.activeForeground": "#FFFFFF",
@@ -223,15 +223,15 @@
     "toolbar.hoverBackground": "#202020",
     "toolbar.hoverOutline": "#181818",
     // Walkthrough
-    "walkThrough.embeddedEditorBackground": "#ff0000",
-    "walkthrough.stepTitle.foreground": "#ff0000",
+    "walkThrough.embeddedEditorBackground": "#151515",
+    "walkthrough.stepTitle.foreground": "#FFFFFF",
     // Welcome
-    "welcomePage.background": "#ff0000",
-    "welcomePage.progress.background": "#ff0000",
-    "welcomePage.progress.foreground": "#ff0000",
-    "welcomePage.tileBackground": "#ff0000",
-    "welcomePage.tileBorder": "#ff0000",
-    "welcomePage.tileHoverBackground": "#ff0000",
+    "welcomePage.background": "#FFFFFF",
+    "welcomePage.progress.background": "#151515",
+    "welcomePage.progress.foreground": "#EFEFEF",
+    "welcomePage.tileBackground": "#151515",
+    "welcomePage.tileBorder": "#181818",
+    "welcomePage.tileHoverBackground": "#181818",
     // Window settings
     "window.activeBorder": "#151515",
     "window.inactiveBorder": "#151515"
