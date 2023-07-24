@@ -54,6 +54,9 @@
     "charts.purple": "#B180d7",
     "charts.red": "#CA0B00",
     "charts.yellow": "#CCA700",
+    // Chat Settings
+    "chat.requestBackground": "#151515",
+    "chat.requestBorder": "#181818",
     // Checkbox settings
     "checkbox.background": "#151515",
     "checkbox.border": "#7D8ECC",
@@ -70,6 +73,8 @@
     "commandCenter.inactiveBorder": "#7D8ECC",
     "commandCenter.inactiveForeground": "#7D8ECC",
     "commentsView.resolvedIcon": "#7D8ECC",
+    // Comments
+    "commentsView.unresolvedIcon": "#7D8ECC",
     // Debug settings
     "debugConsole.errorForeground": "#F48771",
     "debugConsole.infoForeground": "#3794FF",
