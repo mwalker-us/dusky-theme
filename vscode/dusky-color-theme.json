@@ -8,7 +8,7 @@
     "widget.border": "#151515",
     "widget.shadow": "#151515",
     "selection.background": "#212121",
-    "descriptionForeground": "#EFEFEF",
+    "descriptionForeground": "#FFFFFF",
     "errorForeground": "#941100",
     "icon.foreground": "#929292",
     "sash.hoverBorder": "#181818",
@@ -159,7 +159,8 @@
     // Quick Input
     "quickInput.background": "#151515",
     "quickInputList.focusBackground": "#202020",
-    "quickInputTitle.background": "#FFFFFF",
+    "quickInputTitle.background": "#151515",
+    "quickInput.foreground": "#FFFFFF",
     // Settings
     "settings.headerForeground": "#7D8ECC",
     "settings.modifiedItemIndicator": "#5B6BAF",
@@ -215,7 +216,7 @@
     "titleBar.activeBackground": "#151515",
     "titleBar.activeForeground": "#FFFFFF",
     "titleBar.inactiveBackground": "#151515",
-    "titleBar.inactiveForeground": "#202020",
+    "titleBar.inactiveForeground": "#929292",
     "titleBar.border": "#151515",
     // Toolbar
     "toolbar.activeBackground": "#202020",
