@@ -722,7 +722,7 @@
     },
     {
       "scope": [
-        "variable.parameter.url.css",
+        "variable.parameter.url.css"
       ],
       "settings": {
         "foreground": "#7D8ECC"
