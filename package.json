@@ -22,7 +22,8 @@
     ],
     "keywords": [
         "Theme",
-        "Dark Theme"
+        "Dark Theme",
+        "Dusky Theme"
     ],
     "contributes": {
         "themes": [
