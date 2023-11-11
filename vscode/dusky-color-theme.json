@@ -169,14 +169,14 @@
     "quickInput.foreground": "#FFFFFF",
     // Settings
     "settings.headerForeground": "#7D8ECC",
-    "settings.modifiedItemIndicator": "#5B6BAF",
+    "settings.modifiedItemIndicator": "#7D8ECC",
     // Side Bar settings
     "sideBar.border": "#151515",
     "sideBar.background": "#242424",
     "sideBar.foreground": "#FFFFFF",
-    "sideBar.dropBackground": "#ffffff",
+    "sideBar.dropBackground": "#242424",
     "sideBarTitle.foreground": "#EFEFEF",
-    "sideBarSectionHeader.background": "#151515",
+    "sideBarSectionHeader.background": "#242424",
     "sideBarSectionHeader.foreground": "#7D8ECC",
     "sideBarSectionHeader.border": "#151515",
     // Status Bar
