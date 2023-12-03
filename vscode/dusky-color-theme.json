@@ -22,7 +22,7 @@
     "activityBarBadge.background": "#5B6BAF",
     "activityBarBadge.foreground": "#FFFFFF",
     // Badge
-    "badge.background": "#FFFFFF1A",
+    "badge.background": "#5B6BAF",
     "badge.foreground": "#FFFFFF",
     // Banner settings
     "banner.background": "#5B6BAF",
@@ -62,10 +62,10 @@
     "checkbox.selectBorder": "#5B6BAF",
     // Command
     "commandCenter.activeBackground": "#252525",
-    "commandCenter.activeBorder": "#151515",
+    "commandCenter.activeBorder": "#252525",
     "commandCenter.activeForeground": "#FFFFFF",
     "commandCenter.background": "#252525",
-    "commandCenter.border": "#151515",
+    "commandCenter.border": "#252525",
     "commandCenter.foreground": "#7D8ECC",
     "commandCenter.inactiveBorder": "#7D8ECC",
     "commandCenter.inactiveForeground": "#7D8ECC",
@@ -127,6 +127,7 @@
     "extensionButton.background": "#5B6BAF",
     "extensionIcon.preReleaseForeground": "#44987E",
     "extensionButton.separator": "#FFFFFF",
+    "extensionBadge.remoteBackground": "#ff0000",
     // Input
     "input.background": "#151515",
     "input.border": "#7D8ECC",
@@ -136,6 +137,10 @@
     "inputOption.hoverBackground": "#ff0000",
     "inputOption.activeBorder": "#ff0000",
     "inputOption.activeForeground": "#ff0000",
+    // Keybindings
+    "keybindingLabel.background": "#5B6BAF",
+    "keybindingLabel.bottomBorder": "#5B6BAF",
+    "keybindingLabel.border": "#5B6BAF",
     // List settings
     "list.dropBackground": "#383B3D",
     // Notification settings
@@ -166,11 +171,16 @@
     "panelTitle.activeBorder": "#7D8ECC",
     "panelTitle.activeForeground": "#7D8ECC",
     "panelTitle.inactiveForeground": "#FFFFFF",
+    // Picker Group
+    "pickerGroup.border": "#EFEFEF",
+    "pickerGroup.foreground": "#7D8ECC",
     // Quick Input
-    "quickInput.background": "#151515",
+    "quickInput.background": "#202020",
     "quickInputList.focusBackground": "#202020",
     "quickInputTitle.background": "#151515",
     "quickInput.foreground": "#FFFFFF",
+    "quickInputList.focusForeground": "#7D8ECC",
+    "quickInputList.focusIconForeground": "#7D8ECC",
     // Settings
     "settings.headerForeground": "#7D8ECC",
     "settings.modifiedItemIndicator": "#7D8ECC",
