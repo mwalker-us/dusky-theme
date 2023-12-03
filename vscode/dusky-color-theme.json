@@ -313,8 +313,7 @@
         "meta.type.new.expr",
         "support.constant.math",
         "support.constant.dom",
-        "support.constant.json",
-        "meta.attribute.rust"
+        "support.constant.json"
       ],
       "settings": {
         "foreground": "#4EC9B0"
@@ -428,8 +427,7 @@
         "entity.other.attribute-name.scss",
         "entity.name.tag.css",
         "entity.name.tag",
-        "meta.selector",
-        "meta.function.definition.rust"
+        "meta.selector"
       ],
       "settings": {
         "foreground": "#D7BA7D"
