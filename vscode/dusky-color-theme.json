@@ -250,7 +250,7 @@
   },
   "tokenColors": [
     {
-      "name": "Scopes where the font style should be italic.",
+      "name": "Italic Fonts",
       "scope": [
         "emphasis",
         "markup.italic"
@@ -260,7 +260,7 @@
       }
     },
     {
-      "name": "Scopes where the font style should be bold.",
+      "name": "Bold Fonts",
       "scope": [
         "keyword",
         "strong",
@@ -276,6 +276,7 @@
       }
     },
     {
+      "name": "Comments",
       "scope": [
         "comment",
         "entity.name.type.instance.jsdoc",
@@ -286,12 +287,6 @@
       ],
       "settings": {
         "foreground": "#808080"
-      }
-    },
-    {
-      "scope": "header",
-      "settings": {
-        "foreground": "#000080"
       }
     },
     {
@@ -319,6 +314,38 @@
       }
     },
     {
+      "name": "CSS/Sass Attributes",
+      "scope": [
+        "entity.other.attribute-name.class.css",
+        "entity.other.attribute-name.class.mixin.css",
+        "entity.other.attribute-name.id.css",
+        "entity.other.attribute-name.parent-selector.css",
+        "entity.other.attribute-name.pseudo-class.css",
+        "entity.other.attribute-name.pseudo-element.css",
+        "source.css.less entity.other.attribute-name.id",
+        "entity.other.attribute-name.attribute.scss",
+        "entity.other.attribute-name.scss",
+        "entity.name.tag.css",
+        "entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#D7BA7D"
+      }
+    },
+    {
+      "name": "Strings",
+      "scope": [
+        "string",
+        "string.tag",
+        "string.value",
+        "string.regexp"
+      ],
+      "settings": {
+        "foreground": "#6A8759"
+      }
+    },
+    {
+      "name": "Numeric Constants",
       "scope": [
         "constant.numeric"
       ],
@@ -333,38 +360,9 @@
       }
     },
     {
-      "scope": "entity.name.tag",
-      "settings": {
-        "foreground": "#FFC66D"
-      }
-    },
-    {
-      "scope": "entity.name.tag.css",
-      "settings": {
-        "foreground": "#D7BA7D"
-      }
-    },
-    {
       "scope": "entity.other.attribute-name",
       "settings": {
         "foreground": "#BABABA"
-      }
-    },
-    {
-      "name": "CSS/Sass Attributes",
-      "scope": [
-        "entity.other.attribute-name.class.css",
-        "entity.other.attribute-name.class.mixin.css",
-        "entity.other.attribute-name.id.css",
-        "entity.other.attribute-name.parent-selector.css",
-        "entity.other.attribute-name.pseudo-class.css",
-        "entity.other.attribute-name.pseudo-element.css",
-        "source.css.less entity.other.attribute-name.id",
-        "entity.other.attribute-name.attribute.scss",
-        "entity.other.attribute-name.scss"
-      ],
-      "settings": {
-        "foreground": "#D7BA7D"
       }
     },
     {
@@ -434,7 +432,7 @@
       }
     },
     {
-      "name": "brackets of XML/HTML tags",
+      "name": "Brackets of XML/HTML Tags",
       "scope": "punctuation.definition.tag",
       "settings": {
         "foreground": "#FFC66D"
@@ -462,30 +460,6 @@
       "scope": "storage",
       "settings": {
         "foreground": "#F44747"
-      }
-    },
-    {
-      "scope": "string",
-      "settings": {
-        "foreground": "#6A8759"
-      }
-    },
-    {
-      "scope": "string.tag",
-      "settings": {
-        "foreground": "#6A8759"
-      }
-    },
-    {
-      "scope": "string.value",
-      "settings": {
-        "foreground": "#6A8759"
-      }
-    },
-    {
-      "scope": "string.regexp",
-      "settings": {
-        "foreground": "#6A8759"
       }
     },
     {

@@ -3,6 +3,8 @@ class Theme {
   public $name;
   public $identifier;
   public $version;
+  public $number = 1;
+  public $string = 'String example';
 
   protected function __construct($name, $identifier, $version) {
     $this->name = $name;
