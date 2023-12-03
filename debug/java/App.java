@@ -3,6 +3,7 @@ package debug.java;
 import java.util.List;
 import java.util.ArrayList;
 
+@Component
 public class App {
   String temporary = "Hello World!";
 
