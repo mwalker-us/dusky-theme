@@ -313,7 +313,8 @@
         "meta.type.new.expr",
         "support.constant.math",
         "support.constant.dom",
-        "support.constant.json"
+        "support.constant.json",
+        "meta.attribute.rust"
       ],
       "settings": {
         "foreground": "#4EC9B0"
@@ -407,7 +408,8 @@
         "variable.parameter.function.language.special.self.python",
         "meta.object-literal.key",
         "meta.object-literal.key entity.name.function",
-        "variable.parameter.url.css"
+        "variable.parameter.url.css",
+        "meta.var.expr.js"
       ],
       "settings": {
         "foreground": "#7D8ECC"
