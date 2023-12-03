@@ -115,11 +115,9 @@
     "editor.inactiveSelectionBackground": "#3A3D41",
     "editor.selectionHighlightBackground": "#add6ff26",
     "editorGutter.background": "#151515",
-    // "editorIndentGuide.background1": "#404040",
     "editorSuggestWidget.background": "#303030",
     "editorSuggestWidget.highlightForeground": "#CC6E2F",
     "editorSuggestWidget.selectedBackground": "#204182CC",
-    "editorPane.background": "#ff0000",
     "editorGroupHeader.tabsBackground": "#242424",
     "editorWidget.background": "#202020",
     // Extension settings
@@ -127,16 +125,12 @@
     "extensionButton.background": "#5B6BAF",
     "extensionIcon.preReleaseForeground": "#44987E",
     "extensionButton.separator": "#FFFFFF",
-    "extensionBadge.remoteBackground": "#ff0000",
+    "extensionBadge.remoteBackground": "#5B6BAF",
     // Input
     "input.background": "#151515",
     "input.border": "#7D8ECC",
     "input.foreground": "#FFFFFF",
     "input.placeholderForeground": "#797979",
-    "inputOption.activeBackground": "#ff0000",
-    "inputOption.hoverBackground": "#ff0000",
-    "inputOption.activeBorder": "#ff0000",
-    "inputOption.activeForeground": "#ff0000",
     // Keybindings
     "keybindingLabel.background": "#5B6BAF",
     "keybindingLabel.bottomBorder": "#5B6BAF",
@@ -190,7 +184,7 @@
     "sideBar.foreground": "#FFFFFF",
     "sideBar.dropBackground": "#242424",
     "sideBarTitle.foreground": "#EFEFEF",
-    "sideBarSectionHeader.background": "#242424",
+    "sideBarSectionHeader.background": "#151515",
     "sideBarSectionHeader.foreground": "#7D8ECC",
     "sideBarSectionHeader.border": "#151515",
     // Status Bar
@@ -222,7 +216,6 @@
     "tab.hoverBackground": "#181818",
     "tab.activeBorderTop": "#7D8ECC",
     "tab.activeForeground": "#FFFFFF",
-    "tab.activeModifiedBorder": "#ff0000",
     // Text
     "textLink.foreground": "#7D8ECC",
     "textCodeBlock.background": "#151515",
