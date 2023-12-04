@@ -23,14 +23,23 @@
     "keywords": [
         "Theme",
         "Dark Theme",
-        "Dusky Theme"
+        "Dusky Theme",
+        "Dusky Icons"
     ],
     "contributes": {
         "themes": [
             {
+                "id": "dusky-color-theme",
                 "label": "Dusky",
                 "uiTheme": "vs-dark",
-                "path": "./vscode/dusky-color-theme.json"
+                "path": "./dusky-theme/color-theme.json"
+            }
+        ],
+        "iconThemes": [
+            {
+                "id": "dusky-icon-theme",
+                "label": "Dusky Icons",
+                "path": "./dusky-icon-theme/theme.json"
             }
         ]
     },
