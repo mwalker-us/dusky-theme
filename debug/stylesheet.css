@@ -7,4 +7,5 @@
 
 div, p {
   color: red;
+  display: flex;
 }

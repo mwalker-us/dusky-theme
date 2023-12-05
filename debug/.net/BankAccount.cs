@@ -9,6 +9,7 @@ public class BankAccount
 
     public void MakeDeposit(decimal amount, DateTime date, string note)
     {
+        // Single line comments.
         Console.WriteLine($"Account {this.Number} was created for {this.Owner} with {this.Balance} initial balance.");
 
     }
