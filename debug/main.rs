@@ -17,5 +17,5 @@ struct OhMyTermArgs {
 fn main() {
     let args = OhMyTermArgs::parse();
     println!("Theme: {}", args.theme);
-    println!("function: {}", properties::add(1, 2))
+    println!("function: {}", properties::add(1, 2));
 }

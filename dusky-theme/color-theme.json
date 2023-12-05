@@ -269,6 +269,7 @@
       "name": "Italic Fonts",
       "scope": [
         "emphasis",
+        "comment",
         "markup.italic"
       ],
       "settings": {
