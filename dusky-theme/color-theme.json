@@ -257,23 +257,6 @@
   },
   "tokenColors": [
     {
-      "name": "Italic Fonts",
-      "scope": [
-        "emphasis",
-        "markup.italic"
-      ],
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "name": "Underlined Fonts",
-      "scope": "markup.underline",
-      "settings": {
-        "fontStyle": "underline"
-      }
-    },
-    {
       "name": "Bold Fonts",
       "scope": [
         "keyword",
@@ -287,6 +270,26 @@
       ],
       "settings": {
         "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Italic Fonts",
+      "scope": [
+        "emphasis",
+        "comment",
+        "markup.italic"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Underlined Fonts",
+      "scope": [
+        "markup.underline"
+      ],
+      "settings": {
+        "fontStyle": "underline"
       }
     },
     {
@@ -506,13 +509,17 @@
       }
     },
     {
-      "scope": "constant.regexp",
+      "scope": [
+        "constant.regexp"
+      ],
       "settings": {
         "foreground": "#646695"
       }
     },
     {
-      "scope": "entity.other.attribute-name",
+      "scope": [
+        "entity.other.attribute-name"
+      ],
       "settings": {
         "foreground": "#BABABA"
       }
@@ -543,7 +550,7 @@
       }
     },
     {
-      "name": "coloring of the Java import and package identifiers",
+      "name": "Imports",
       "scope": [
         "storage.modifier.import.java",
         "storage.modifier.package.java"

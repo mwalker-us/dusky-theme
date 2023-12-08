@@ -1,3 +1,7 @@
+module.exports = exports = function () {
+  console.log("Hello World!");
+};
+
 /**
  * Defines the basic properties to identify a Visual Studio Code
  * theme along with the actions available for those properties.
