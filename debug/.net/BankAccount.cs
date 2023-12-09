@@ -13,7 +13,7 @@ public class BankAccount
         Console.WriteLine($"Account {this.Number} was created for {this.Owner} with {this.Balance} initial balance.");
 
     }
-
+    
     [AuthenticationRequired]
     public void MakeWithdrawal(decimal amount, DateTime date, string note)
     {
