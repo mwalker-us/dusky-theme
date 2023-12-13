@@ -2,6 +2,7 @@
     "file": "file_text",
     "folder": "folder",
     "folderNames": {},
+    "hidesExplorerArrows": true,
     "iconDefinitions": {
         "file_text": {
             "iconPath": "./icons/text_dark.svg"
