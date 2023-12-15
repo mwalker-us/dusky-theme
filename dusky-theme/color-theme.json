@@ -136,9 +136,9 @@
     "inputOption.activeBorder": "#202020",
     "inputOption.activeForeground": "#FFFFFF",
     "inputOption.hoverBackground": "#5B6BAF",
-    "inputValidation.errorBackground": "#ff0000",
-    "inputValidation.errorBorder": "#ff0000",
-    "inputValidation.errorForeground": "#ff0000",
+    "inputValidation.errorBackground": "#941100",
+    "inputValidation.errorBorder": "#941100",
+    "inputValidation.errorForeground": "#FFFFFF",
     // Keybindings
     "keybindingLabel.background": "#5B6BAF",
     "keybindingLabel.bottomBorder": "#5B6BAF",
