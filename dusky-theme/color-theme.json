@@ -118,7 +118,7 @@
     "editorGutter.background": "#151515",
     "editorSuggestWidget.background": "#303030",
     "editorSuggestWidget.highlightForeground": "#CC6E2F",
-    "editorSuggestWidget.selectedBackground": "#204182CC",
+    "editorSuggestWidget.selectedBackground": "#181818",
     "editorGroupHeader.tabsBackground": "#242424",
     "editorWidget.background": "#202020",
     // Extension settings
@@ -147,6 +147,9 @@
     "list.dropBackground": "#222222",
     "list.hoverBackground": "#151515",
     "list.errorForeground": "#FF7E79",
+    "list.filterMatchBackground": "#FF7E79",
+    "list.filterMatchBorder": "#ff0000",
+    "listFilterWidget.background": "#ff0000",
     "list.activeSelectionIconForeground": "#5B6BAF",
     "list.activeSelectionBackground": "#181818",
     "list.activeSelectionForeground": "#5B6BAF",
@@ -188,6 +191,11 @@
     "quickInput.foreground": "#FFFFFF",
     "quickInputList.focusForeground": "#7D8ECC",
     "quickInputList.focusIconForeground": "#7D8ECC",
+    // Search
+    "search.resultsInfoForeground": "#7D8ECC",
+    "searchEditor.findMatchBackground": "#282828",
+    "searchEditor.findMatchBorder": "#282828",
+    "searchEditor.textInputBorder": "#5B6BAF",
     // Settings
     "settings.headerForeground": "#7D8ECC",
     "settings.modifiedItemIndicator": "#7D8ECC",
