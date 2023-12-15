@@ -146,8 +146,8 @@
     // List settings
     "list.dropBackground": "#222222",
     "list.hoverBackground": "#151515",
-    "list.activeSelectionIconForeground": "#5B6BAF",
     "list.errorForeground": "#FF7E79",
+    "list.activeSelectionIconForeground": "#5B6BAF",
     "list.activeSelectionBackground": "#181818",
     "list.activeSelectionForeground": "#5B6BAF",
     // Notification settings
