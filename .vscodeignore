@@ -1,3 +1,4 @@
+# Don't include auto generated files and debug files in final vsix package.
 screenshot.png
 .gitignore
 .github
