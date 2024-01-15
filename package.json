@@ -1,6 +1,6 @@
 {
-    "name": "dusky-theme",
-    "displayName": "Dusky Theme",
+    "name": "dusky",
+    "displayName": "Dusky",
     "version": "0.1.2",
     "publisher": "mwalker-us",
     "icon": "assets/icon.png",
@@ -23,8 +23,8 @@
     "keywords": [
         "Theme",
         "Dark Theme",
-        "Dusky Theme",
-        "Dusky Icons"
+        "Dusky Color Theme",
+        "Dusky Icon Theme"
     ],
     "contributes": {
         "themes": [
@@ -38,7 +38,7 @@
         "iconThemes": [
             {
                 "id": "dusky-icon-theme",
-                "label": "Dusky Icons",
+                "label": "Dusky",
                 "path": "./dusky-icon-theme/theme.json"
             }
         ]
