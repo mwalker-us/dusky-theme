@@ -70,7 +70,7 @@
     "commandCenter.foreground": "#7D8ECC",
     "commandCenter.inactiveBorder": "#7D8ECC",
     "commandCenter.inactiveForeground": "#7D8ECC",
-    "commandCenter.debuggingBackground": "#252525",
+    "commandCenter.debuggingBackground": "#252525CC",
     // Comments
     "commentsView.unresolvedIcon": "#7D8ECC",
     "commentsView.resolvedIcon": "#7D8ECC",
@@ -112,8 +112,8 @@
     "editor.background": "#151515",
     "editor.foreground": "#CCCCCC",
     "editor.selectionBackground": "#222222",
-    "editor.lineHighlightBackground": "#FFFFFF0B",
-    "editor.inactiveSelectionBackground": "#3A3D41",
+    "editor.lineHighlightBackground": "#202020",
+    "editor.inactiveSelectionBackground": "#202020CC",
     "editor.selectionHighlightBackground": "#add6ff26",
     "editorGutter.background": "#151515",
     "editorSuggestWidget.background": "#303030",
@@ -122,9 +122,9 @@
     "editorGroupHeader.tabsBackground": "#242424",
     "editorWidget.background": "#202020",
     // Extension settings
-    "extensionIcon.starForeground": "#FFC66D",
+    "extensionIcon.starForeground": "#FFC66DCC",
     "extensionButton.background": "#5B6BAF",
-    "extensionIcon.preReleaseForeground": "#44987E",
+    "extensionIcon.preReleaseForeground": "#44987ECC",
     "extensionButton.separator": "#FFFFFF",
     "extensionBadge.remoteBackground": "#5B6BAF",
     // Input
@@ -259,7 +259,7 @@
     "walkThrough.embeddedEditorBackground": "#151515",
     "walkthrough.stepTitle.foreground": "#FFFFFF",
     // Welcome
-    "welcomePage.background": "#FFFFFF",
+    "welcomePage.background": "#151515",
     "welcomePage.progress.background": "#151515",
     "welcomePage.progress.foreground": "#EFEFEF",
     "welcomePage.tileBackground": "#151515",
