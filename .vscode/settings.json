@@ -1,4 +1,7 @@
 {
   "editor.wordWrap": "on",
-  "explorer.excludeGitIgnore": true
+  "explorer.excludeGitIgnore": true,
+  "cSpell.words": [
+    "mwalker-us"
+  ]
 }
