@@ -1,7 +1,7 @@
 {
     "name": "dusky",
     "displayName": "Dusky",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "publisher": "mwalker-us",
     "icon": "assets/icon.png",
     "description": "A theme extension for Visual Studio Code that uses a monotone color scheme.",
