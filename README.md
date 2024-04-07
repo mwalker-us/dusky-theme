@@ -15,7 +15,7 @@ will be added for common languages like `C++`, `Java`, etc.
 
 1. Open the Extensions sidebar via `View -> Extensions` and search for `Dusky`.
 2. Click `Install` and then click `Reload` to activate the theme.
-3. Verify `Settings -> Color Theme [Command K Command T] -> Dusky` is set.
+3. Type `Settings -> Color Theme [Command K Command T] -> Dusky` on MacOS or `Settings -> Color Theme [Control K Control T] -> Dusky` on Windows to verify theme is set.
 
 ### Feedback
 
