@@ -237,6 +237,8 @@
     "tab.hoverBackground": "#101010",
     "tab.activeBorderTop": "#7D8ECC",
     "tab.activeForeground": "#FFFFFF",
+    // Terminal
+    "terminal.selectionBackground": "#151515",
     // Text
     "textLink.foreground": "#7D8ECC",
     "textCodeBlock.background": "#151515",
