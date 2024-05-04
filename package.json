@@ -41,6 +41,13 @@
                 "label": "Dusky",
                 "path": "./dusky-icon-theme/theme.json"
             }
+        ],
+        "productIconThemes": [
+            {
+                "id": "dusky-product-icon-theme",
+                "label": "Dusky",
+                "path": "./dusky-product-icon-theme/theme.json"
+            }
         ]
     },
     "dependencies": {
