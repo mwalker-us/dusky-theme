@@ -1,6 +1,7 @@
 {
   "editor.wordWrap": "on",
   "explorer.excludeGitIgnore": true,
+  "npm.autoDetect": "on",
   "cSpell.words": [
     "mwalker-us"
   ]
